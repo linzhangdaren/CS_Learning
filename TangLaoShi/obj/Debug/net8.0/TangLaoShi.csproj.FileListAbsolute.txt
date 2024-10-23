@@ -1,0 +1,14 @@
+D:\Cache\VSCode_CS\TangLaoShi\bin\Debug\net8.0\TangLaoShi.exe
+D:\Cache\VSCode_CS\TangLaoShi\bin\Debug\net8.0\TangLaoShi.deps.json
+D:\Cache\VSCode_CS\TangLaoShi\bin\Debug\net8.0\TangLaoShi.runtimeconfig.json
+D:\Cache\VSCode_CS\TangLaoShi\bin\Debug\net8.0\TangLaoShi.dll
+D:\Cache\VSCode_CS\TangLaoShi\bin\Debug\net8.0\TangLaoShi.pdb
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.AssemblyInfoInputs.cache
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.AssemblyInfo.cs
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.csproj.CoreCompileInputs.cache
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.dll
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\refint\TangLaoShi.dll
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.pdb
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\TangLaoShi.genruntimeconfig.cache
+D:\Cache\VSCode_CS\TangLaoShi\obj\Debug\net8.0\ref\TangLaoShi.dll
