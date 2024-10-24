@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cache\\VSCode_CS\\TangLaoShi\\TangLaoShi.csproj",
+      "projectUniqueName": "D:\\Cache\\VSCode_CS\\CS_Learning\\TangLaoShi\\TangLaoShi.csproj",
       "projectName": "TangLaoShi",
-      "projectPath": "D:\\Cache\\VSCode_CS\\TangLaoShi\\TangLaoShi.csproj",
+      "projectPath": "D:\\Cache\\VSCode_CS\\CS_Learning\\TangLaoShi\\TangLaoShi.csproj",
       "packagesPath": "C:\\Users\\73908\\.nuget\\packages\\",
-      "outputPath": "D:\\Cache\\VSCode_CS\\TangLaoShi\\obj\\",
+      "outputPath": "D:\\Cache\\VSCode_CS\\CS_Learning\\TangLaoShi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
